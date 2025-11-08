@@ -171,6 +171,7 @@ void loop() {
   }
   delay(400);
 }
+
 // Mở https://www.hivemq.com/demos/websocket-client/
 
 // Điền:
